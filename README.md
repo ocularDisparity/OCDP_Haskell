@@ -1,2 +1,2 @@
-# OCDP_Haskell
+# Haskell Practice
 I should get better at this.
