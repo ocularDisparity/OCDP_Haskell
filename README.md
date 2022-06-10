@@ -1,2 +1,2 @@
 # Haskell Practice
-I should get better at this.
+Haskell studies.
